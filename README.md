@@ -1,2 +1,2 @@
-# pizza-kade-project
+# pizzakade
 complete laravle pizzakade project
